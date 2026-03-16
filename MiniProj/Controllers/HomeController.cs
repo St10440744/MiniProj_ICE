@@ -3,7 +3,7 @@ using MiniProj.Models;
 using System.Diagnostics;
 
 namespace MiniProj.Controllers
-{ //test bitch
+{ 
     public class HomeController : Controller
     {
         public IActionResult Index()

@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|c:\\users\\jessj\\onedrive\\documents\\github\\miniproj_ice\\miniproj\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|solutionrelative:miniproj\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|c:\\users\\jessj\\onedrive\\documents\\github\\miniproj_ice\\miniproj\\models\\moduleassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|solutionrelative:miniproj\\models\\moduleassigment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|c:\\users\\jessj\\onedrive\\documents\\github\\miniproj_ice\\miniproj\\models\\modules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|solutionrelative:miniproj\\models\\modules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|c:\\users\\jessj\\onedrive\\documents\\github\\miniproj_ice\\miniproj\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|solutionrelative:miniproj\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|c:\\users\\jessj\\onedrive\\documents\\github\\miniproj_ice\\miniproj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|solutionrelative:miniproj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|c:\\users\\jessj\\onedrive\\documents\\github\\miniproj_ice\\miniproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|solutionrelative:miniproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +39,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Models\\Lecturer.cs",
+              "RelativeDocumentMoniker": "MiniProj\\Models\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Models\\Lecturer.cs",
+              "RelativeToolTip": "MiniProj\\Models\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:02:18.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModuleAssigment.cs",
+              "DocumentMoniker": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Models\\ModuleAssigment.cs",
+              "RelativeDocumentMoniker": "MiniProj\\Models\\ModuleAssigment.cs",
+              "ToolTip": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Models\\ModuleAssigment.cs",
+              "RelativeToolTip": "MiniProj\\Models\\ModuleAssigment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:00:13.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modules.cs",
+              "DocumentMoniker": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Models\\Modules.cs",
+              "RelativeDocumentMoniker": "MiniProj\\Models\\Modules.cs",
+              "ToolTip": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Models\\Modules.cs",
+              "RelativeToolTip": "MiniProj\\Models\\Modules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:56:11.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "MiniProj\\Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Models\\Registration.cs",
+              "RelativeToolTip": "MiniProj\\Models\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:51:17.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MiniProj\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Models\\Student.cs",
+              "RelativeToolTip": "MiniProj\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:46:03.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MiniProj\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MiniProj\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T07:39:50.614Z",
               "EditorCaption": ""
