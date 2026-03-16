@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jessj\\OneDrive\\Documents\\Uni\\Year 3\\Prog 3A UI\\ICE mini proj\\MiniProj\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|c:\\users\\jessj\\onedrive\\documents\\github\\miniproj_ice\\miniproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21E9D03-9B42-F684-F8C4-C25B4CCD20DA}|MiniProj\\MiniProj.csproj|solutionrelative:miniproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MiniProj\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MiniProj\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:39:50.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

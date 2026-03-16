@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jessj\\OneDrive\\Documents\\Uni\\Year 3\\Prog 3A UI\\ICE mini proj\\MiniProj\\MiniProj\\MiniProj.csproj",
+      "projectUniqueName": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\MiniProj.csproj",
       "projectName": "MiniProj",
-      "projectPath": "C:\\Users\\jessj\\OneDrive\\Documents\\Uni\\Year 3\\Prog 3A UI\\ICE mini proj\\MiniProj\\MiniProj\\MiniProj.csproj",
+      "projectPath": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\MiniProj.csproj",
       "packagesPath": "C:\\Users\\jessj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jessj\\OneDrive\\Documents\\Uni\\Year 3\\Prog 3A UI\\ICE mini proj\\MiniProj\\MiniProj\\obj\\",
+      "outputPath": "C:\\Users\\jessj\\OneDrive\\Documents\\GitHub\\MiniProj_ICE\\MiniProj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
